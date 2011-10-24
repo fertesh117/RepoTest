@@ -10,5 +10,6 @@ public class RepoTestActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         System.out.println("Weeeeee");
+        System.out.println("Branching!!");
     }
 }
